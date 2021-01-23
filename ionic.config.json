@@ -1,0 +1,7 @@
+{
+  "name": "academyLogout",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
